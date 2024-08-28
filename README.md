@@ -1,4 +1,4 @@
-# fair-assessment-4fairease
+# fair-assessment
 (To be moved to FE GH when we have a repo there)
 
 For Dev Cycle 4 we carried out an assessment of the FAIRness of datasets being used in FAIR EASE: see the confluence pages [for the paper](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/341311604/D4T12+-+Paper+preparation+and+Deliver+on+FAIR+DATA+AND+METHODS) and [for D6.5](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/347799553/D4T11+-+Writing+the+D6.5).
