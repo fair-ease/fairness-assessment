@@ -4,7 +4,7 @@ For Dev Cycle 4 we carried out an assessment of the FAIRness of datasets being u
 
 In this repo you will find
 * A spreadsheet of the datasets we are working on. **If you add to this spreadsheet please use the [google spreadsheet](https://docs.google.com/spreadsheets/d/1DmnS8WbHCUK4WFF6qj6JRrHWd9Yla7KjZf13Q-_hxvw/edit?usp=sharing) and not the file here**. Katrina will update the version here in GH every now and then.
-* A master spreadsheet [FAIRness assessments.xlsx][https://github.com/fair-ease/fairness-assessment/blob/main/FAIRness%20assessments.xlsx]
+* A master spreadsheet [FAIRness assessments.xlsx](https://github.com/fair-ease/fairness-assessment/blob/main/FAIRness%20assessments.xlsx)
 * The FUJI results - all the json files. The name of the dataset that they belong to is recorded in the spreadsheet. 
 
 The deeper analysis of the FUIJ results, and running recommendations to be made either to the pilot or the data provider, can be found on a [confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/380174344/Deeper+analysis+of+the+FUJI+results). This information can be found for the long term in deliverable D6.5 of the FAIR-EASE project, which will be available from the FAIR-EASE collection in Zenodo. 
