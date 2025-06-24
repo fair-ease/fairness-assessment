@@ -4,18 +4,13 @@ For Dev Cycle 4 we carried out an assessment of the FAIRness of datasets being u
 
 In this repo you will find
 * A spreadsheet of the datasets we are working on. **If you add to this spreadsheet please use the [google spreadsheet](https://docs.google.com/spreadsheets/d/1DmnS8WbHCUK4WFF6qj6JRrHWd9Yla7KjZf13Q-_hxvw/edit?usp=sharing) and not the file here**. Katrina will update the version here in GH every now and then.
+* A master spreadsheet [FAIRness assessments.xlsx][https://github.com/fair-ease/fairness-assessment/blob/main/FAIRness%20assessments.xlsx]
 * The FUJI results - all the json files. The name of the dataset that they belong to is recorded in the spreadsheet. 
 
-The deeper analysis of the FUIJ results, and running recommendations to be made either to the pilot or the data provider, can be found on a [confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/380174344/Deeper+analysis+of+the+FUJI+results). Once this work has completed, we will post a summary here. 
+The deeper analysis of the FUIJ results, and running recommendations to be made either to the pilot or the data provider, can be found on a [confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/380174344/Deeper+analysis+of+the+FUJI+results). This information can be found for the long term in deliverable D6.5 of the FAIR-EASE project, which will be available from the FAIR-EASE collection in Zenodo. 
 
-## What do we need from the pilots next (as of July 19 2024)?
-As you will see from the spreadsheet ([google spreadsheet](https://docs.google.com/spreadsheets/d/1DmnS8WbHCUK4WFF6qj6JRrHWd9Yla7KjZf13Q-_hxvw/edit?usp=sharing) in the sheet "Datasets analysed"), there are only 10 datasets that have been analysed via FUJI
-* for most pilots we have just one unique dataset, tho some with double links (which is good)
-* for 5.1.2 ECZ we have no datasets
+In addition we have CSV files that contain the software descriptions of a subset of the software (source code, environments, UIs, etc) used in FAIR-EASE. These are all called "FAIR-EASE_software_description-XXXX.csv, with the XXXX being the name of the software. 
 
-**So we need the pilots to add more source datasets to the tab "Additional datasets from pilots"**
-
-In the tab "Datasets taken from the IDDAS", please see [this confluence page](https://fair-ease.atlassian.net/wiki/spaces/FAIREASE/pages/409403395/Datasets+obtained+by+the+IDDAS) to know what we may do here: at present this is empty.
 
 
 ## The FUJI tool
