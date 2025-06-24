@@ -1,0 +1,18 @@
+Field,Value
+Description,"The FAIR-EASE Interdisciplinary Data Discovery and Access service (IDDAS) enable easy discovery and access to multidisciplinary and aggregated datasets (in situ datasets, satellite datasets, omics experiments and model outputs) from a range of environmental data infrastructures relevant to the FAIR-EASE scientific pilot use cases."
+Licence,https://spdx.org/licenses/CC-BY-NC-ND-4.0.html
+Repository,https://github.com/fair-ease/IDDAS
+Contributor Policies,None
+CodeMeta,https://github.com/fair-ease/IDDAS
+Provenance Tracking,None
+Software Heritage,None
+Zenodo,None
+Language package,None
+Conda package,None
+Docker image,"Can include Docker Image for IDDAS Widget, to be done"
+Galaxy tool,None
+API,https://fair-ease-iddas.maris.nl/sparql
+Web services,None
+User documentation,None
+Test dataset,None
+Training Material,None

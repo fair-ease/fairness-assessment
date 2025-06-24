@@ -1,0 +1,18 @@
+Field,Value
+Description,"Software application for the interactive exploration, analysis and visualization of oceanographic and other environmental data. Available for Windows, macOS and Linux."
+Licence,https://odv.awi.de/fileadmin/user_upload/odv/docs/ODV_license_agreement.pdf
+Repository,https://odv.awi.de
+Contributor Policies,None
+CodeMeta,None
+Provenance Tracking,None
+Software Heritage,None
+Zenodo,None
+Language package,https://odv.awi.de/software/download/
+Conda package,None
+Docker image,None
+Galaxy tool,https://usegalaxy.eu/root?tool_id=interactive_tool_odv
+API,https://odv.awi.de/software/download/
+Web services,https://webodv.awi.de/
+User documentation,https://odv.awi.de/fileadmin/user_upload/odv/docs/ODV_guide.pdf
+Test dataset,https://odv.awi.de/data
+Training Material,https://odv.awi.de/presentations/

@@ -1,0 +1,18 @@
+Field,Value
+Description,"Workflow for data generation, semantic uplift of EMO BON sampling, sequence, and omics data"
+Licence,CC-BY
+Repository,https://github.com/emo-bon (various repositories)
+Contributor Policies,None
+CodeMeta,None
+Provenance Tracking,None
+Software Heritage,None
+Zenodo,None
+Language package,None
+Conda package,None
+Docker image,"Yes, two, but not yet available - will be on DockerHub"
+Galaxy tool,None
+API,None
+Web services,Possible integration with Github Actions
+User documentation,Github README
+Test dataset,None
+Training Material,None

@@ -1,0 +1,18 @@
+Field,Value
+Description,"The Semantic Analyser is a software tool that analyses XML metadata records, keyword lists, and netCDF files, matching them against semantic artefacts relevant to the environmental and earth domains within the underlying Knowledge Base."
+Licence,Apache License 2.0
+Repository,https://github.com/British-Oceanographic-Data-Centre/fair-ease-matcher
+Contributor Policies,None
+CodeMeta,https://github.com/British-Oceanographic-Data-Centre/fair-ease-matcher/blob/master/codemeta.json
+Provenance Tracking,None
+Software Heritage,None
+Zenodo,None
+Language package,None
+Conda package,None
+Docker image,None
+Galaxy tool,None
+API,"https://semantics.bodc.ac.uk/api/, https://github.com/British-Oceanographic-Data-Centre/fair-ease-matcher/blob/master/API%20documentation.md"
+Web services,https://semantics.bodc.ac.uk/api/
+User documentation,https://github.com/Kurrawong/fair-ease-matcher/blob/documentation/documentation.md
+Test dataset,None
+Training Material,Included in the Semantic Analyser

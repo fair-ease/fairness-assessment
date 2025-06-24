@@ -1,0 +1,18 @@
+Field,Value
+Description,"Galaxy is a community-driven, web-based platform designed for accessible, reproducible, and collaborative data-intensive research. It allows users to perform complex analyses using thousands of tools, manage data, and share workflows."
+Licence,Galaxy source code is licensed under the Academic Free License version 3.0.
+Repository,https://github.com/galaxyproject/galaxy
+Contributor Policies,Contribution guidelines and policies for the Galaxy project can be found in the respective GitHub repositories and the Galaxy Community Hub https://galaxyproject.org/admin/license/
+CodeMeta,None
+Provenance Tracking,"Galaxy supports exporting structured data using standards like RO-Crate and BioCompute Objects, enhancing provenance tracking of analyses and workflows.  https://galaxyproject.org/news/2023-02-23-structured-data-exports-ro-bco/"
+Software Heritage,None
+Zenodo,"Galaxy's integration with Zenodo allows users to export research results directly from Galaxy to Zenodo repositories, facilitating data sharing and preservation.  https://galaxyproject.org/news/2025-03-10-inveniordm-integration-update/"
+Language package,"Galaxy utilizes Conda environments to manage software dependencies, enabling reproducible and shareable code development"
+Conda package,"Galaxy employs Conda as its default tool dependency resolver, streamlining the installation and management of software packages."
+Docker image,"Galaxy supports the use of Docker containers for tools, enhancing reproducibility and simplifying deployment"
+Galaxy tool,None
+API,"Galaxy provides a comprehensive API, documented using Swagger, allowing programmatic access to its functionalities."
+Web services,"Galaxy offers web-based interactive tools, such as Jupyter and RStudio, accessible through its platform for data analysis and visualization"
+User documentation,"Extensive user documentation is available through the Galaxy Training Network, providing tutorials and guides on various topics."
+Test dataset,"Galaxy offers test datasets within its training materials, facilitating hands-on learning and tool validation."
+Training Material,"The Galaxy Training Network provides a comprehensive collection of training materials, including tutorials and workshops, to support users in learning and utilizing Galaxy's features. https://training.galaxyproject.org/training-material/"

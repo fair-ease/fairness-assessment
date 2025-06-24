@@ -1,0 +1,18 @@
+Field,Value
+Description,"SO2 Flux Calculator : Python implementation of the volcanic SO2 flux calculator add-on of the VolcPlume web platform, in the framework of the Volcano Space Observatory Portal. Uses Sentinel-5P/TROPOMI-derived SO2 mass burden extracted in nested circular domains centred on a volcanic target to estimate the daily-averaged SO2 mass flux released by the volcano. The algorithm is applied in the back-end of the on-demand web service « SO2 Flux Calculator » operated by AERIS/ICARE at http://jupyter.icare.univ-lille.fr:5057/so2-flux-calculator, in the framework of the Volcano Space Observatory Portal"
+Licence,MIT License
+Repository,https://git.icare.univ-lille.fr/icare-public/so2-flux-calculator
+Contributor Policies,"Users are asked to cite the Grandin et al. (2024) paper (https://doi.org/10.1029/2024JB029309) if they use the software for a publication. In addition, if they used the on-demand service (http://jupyter.icare.univ-lille.fr:5057/so2-flux-calculator), they should cite the DOI of the landing page of the service (https://doi.org/10.25326/655)"
+CodeMeta,https://git.icare.univ-lille.fr/icare-public/so2-flux-calculator/-/raw/main/codemeta_V3_SO2-flux-calculator.json
+Provenance Tracking,"The version of software used for computing the output files is written in the header of the output files. The version is determined on the basis of the git hash of the package, which traces the latest commit submitted on the repository for the version of the code used for the output file calculation with the command: Source: https://git.icare.univ-lille.fr/icare-public/so2-flux-calculator (version %s)\n' % get_git_hash_of_package()"
+Software Heritage,"A snapshot of the code has been submitted manually to Software Heritage : https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://git.icare.univ-lille.fr/icare-public/so2-flux-calculator. This version coincides with the version of the code used to produce files uploaded in an associated dataset on the EaSy Data repository, which is itself referenced in the scientific paper associated with the publication of the algorithm : https://www.easydata.earth/#/public/search/metadata/235f8c42-142b-40ee-9948-518e83554a7d"
+Zenodo,None
+Language package,https://git.icare.univ-lille.fr/api/v4/projects/661/packages/pypi/simple
+Conda package,None
+Docker image,None
+Galaxy tool,None
+API,In preparation
+Web services,The algorithm is applied in the back-end of the on-demand web service « SO2 Flux Calculator » operated by AERIS/ICARE at http://jupyter.icare.univ-lille.fr:5057/so2-flux-calculator. in the framework of the Volcano Space Observatory Portal
+User documentation,A PDF version of the documentation is available on the git repository : https://git.icare.univ-lille.fr/icare-public/so2-flux-calculator/-/raw/main/README.pdf?inline=false
+Test dataset,"A test dataset has been incorporated to the git repository to validate the integrity of the software : python -m pytest ./tests. The test dataset is exactly the same as the associated dataset published on the EaSy Data repository, which is itself referenced in the scientific paper associated with the publication of the algorithm : https://www.easydata.earth/#/public/search/metadata/235f8c42-142b-40ee-9948-518e83554a7d"
+Training Material,In preparation

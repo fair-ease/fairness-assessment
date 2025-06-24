@@ -1,0 +1,18 @@
+Field,Value
+Description,"CANYON-B software, Matlab and R implementations of the CANYON-B method published in: Bittig et al. (2018). An alternative to static climatologies: Robust estimation of open ocean CO2 variables and nutrient concentrations from T, S and O2 data using Bayesian neural networks. Front. Mar. Sci. 5:328. http://dx.doi.org/10.3389/fmars.2018.00328. When using the method, please cite the paper."
+Licence,GPL-3.0
+Repository,https://github.com/HCBScienceProducts/CANYON-B
+Contributor Policies,
+CodeMeta,https://github.com/HCBScienceProducts/CANYON-B
+Provenance Tracking,None
+Software Heritage,None
+Zenodo,None
+Language package,"R, matlab"
+Conda package,None
+Docker image,None
+Galaxy tool,None
+API,None
+Web services,None
+User documentation,"Inputs (units, formats) and outputs (units, formats)  are fully described in the header of the main function"
+Test dataset,None
+Training Material,None

@@ -1,0 +1,18 @@
+Field,Value
+Description,"The DAB is a brokering software framework for the mediation and harmonization of geospatial data with particular reference to Earth observation data, both satellite and non-satellite. DAB makes it possible to connect heterogeneous data sources and make them discoverable and accessible through homogeneous and standard interfaces by different data user tools and applications. Specific software modules were developed in the context of FAIR-EASE to make possible to configure the DAB to support the FAIR-EASE objectives, in particular accessor components for FAIR-EASE relevant data providers and a profiler component for mapping metadata records towards the DCAT FAIR-EASE profile."
+Licence,GNU Affero General Public License v3.0
+Repository,https://github.com/ESSI-Lab/DAB
+Contributor Policies,https://github.com/ESSI-Lab/DAB/blob/main/CODE_OF_CONDUCT.md
+CodeMeta,https://github.com/ESSI-Lab/DAB/blob/main/codemeta.json
+Provenance Tracking,None
+Software Heritage,None
+Zenodo,None
+Language package,None
+Conda package,None
+Docker image,https://hub.docker.com/repository/docker/essilab/essilab/general
+Galaxy tool,None
+API,DAB API
+Web services,"Several, including OGC CSW, ESRI Geoportal, OAI-PMH, OpenSearch, CKAN, CUAHSI HIS-Central, OGC WMS, OGC SOS"
+User documentation,Javadocs on GitHub
+Test dataset,None
+Training Material,None
